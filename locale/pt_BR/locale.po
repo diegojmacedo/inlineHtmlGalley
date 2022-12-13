@@ -1,0 +1,93 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: Diego José Macêdo <diegojmacedo@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-10-06T11:07:43-04:00\n"
+"PO-Revision-Date: 2021-10-06T11:07:43-04:00\n"
+"Language: pt_BR\n"
+
+msgid "plugins.generic.inlineHtmlGalley.displayName"
+msgstr "Composiçãos HTML em linha para Bootstrap"
+
+msgid "plugins.generic.inlineHtmlGalley.description"
+msgstr "Este plugin fornece suporte de renderização em linha para composições HTML."
+
+msgid "plugins.generic.inlineHtmlGalley.block.download.displayName"
+msgstr "Link para download da composição HTML"
+
+msgid "plugins.generic.inlineHtmlGalley.block.download.description"
+msgstr "Este bloco fornece um link para baixar a composição HTML diretamente."
+
+msgid "plugins.generic.inlineHtmlGalley.block.keywords.displayName"
+msgstr "Barra lateral da composição HTML em linha: palavras-chave"
+
+msgid "plugins.generic.inlineHtmlGalley.block.keywords.description"
+msgstr "Este bloco exibe as palavras-chave do artigo."
+
+msgid "plugins.generic.inlineHtmlGalley.block.authors.displayName"
+msgstr "Barra lateral da composição HTML em linha: Autores"
+
+msgid "plugins.generic.inlineHtmlGalley.block.authors.description"
+msgstr "Este bloco exibe os autores do artigo."
+
+msgid "plugins.generic.inlineHtmlGalley.block.doi.displayName"
+msgstr "Barra lateral da galera HTML em linha: DOI"
+
+msgid "plugins.generic.inlineHtmlGalley.block.doi.description"
+msgstr "Este bloco fornece um link DOI."
+
+msgid "plugins.generic.inlineHtmlGalley.block.coverImage.displayName"
+msgstr "Barra lateral da galera HTML em linha: Imagem da capa do artigo/edição"
+
+msgid "plugins.generic.inlineHtmlGalley.block.coverImage.description"
+msgstr "Este bloco mostra a imagem da capa do artigo/edição."
+
+msgid "plugins.generic.inlineHtmlGalley.block.details.displayName"
+msgstr "Barra lateral da composição HTML em linha: detalhes do artigo"
+
+msgid "plugins.generic.inlineHtmlGalley.block.details.description"
+msgstr "Este bloco fornece um local para o conteúdo exibido anteriormente na seção Detalhes do artigo em sites não inlineHtmlGalley."
+
+msgid "plugins.generic.inlineHtmlGalley.block.publishedDate.displayName"
+msgstr "Barra lateral da composição HTML em linha: data de publicação"
+
+msgid "plugins.generic.inlineHtmlGalley.block.publishedDate.description"
+msgstr "Este bloco mostra a data de publicação do artigo."
+
+msgid "plugins.generic.inlineHtmlGalley.block.howToCite.displayName"
+msgstr "Barra lateral da composição em HTML embutido: como citar"
+
+msgid "plugins.generic.inlineHtmlGalley.block.howToCite.description"
+msgstr "Este bloco mostra informações de citação para o artigo."
+
+msgid "plugins.generic.inlineHtmlGalley.block.license.displayName"
+msgstr "Barra lateral ca composição HTML embutido: licença"
+
+msgid "plugins.generic.inlineHtmlGalley.block.license.description"
+msgstr "Este bloco mostra informações de licença para o artigo."
+
+msgid "plugins.generic.inlineHtmlGalley.block.references.displayName"
+msgstr "Barra lateral da composição em HTML embutido: referências"
+
+msgid "plugins.generic.inlineHtmlGalley.block.references.description"
+msgstr "Este bloco mostra as referências do artigo."
+
+msgid "plugins.generic.inlineHtmlGalley.block.galleys.displayName"
+msgstr "Barra lateral de galé HTML embutido: Composições"
+
+msgid "plugins.generic.inlineHtmlGalley.block.galleys.description"
+msgstr "Este bloco mostra links para download de qualquer artigo da composição."
+
+msgid "plugins.generic.inlineHtmlGalley.settings.xpath"
+msgstr "XPath"
+
+msgid "plugins.generic.inlineHtmlGalley.settings.xpath.description"
+msgstr "Essa expressão XPath será usada para selecionar quais elementos na composição HTML serão exibidos na página inicial do artigo. Se for deixado em branco, o comportamento padrão é exibir o conteúdo da tag body."
+
+msgid "plugins.generic.inlineHtmlGalley.backToTop"
+msgstr "Voltar ao início"
